@@ -1,0 +1,19 @@
+# Compiled Java Class Files
+*.class
+
+# Project Output Directories
+out/
+build/
+
+# IntelliJ IDEA Project Files & Metadata
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local Application Logs (Database Replacement)
+claims_history_log.txt
+
+# Operating System Files
+.DS_Store
+Thumbs.db
